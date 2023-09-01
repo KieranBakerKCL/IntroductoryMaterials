@@ -1,0 +1,17 @@
+﻿Item,Health_Rating,Allergens
+apple,A,
+banana,A,
+pear,A,
+jackfruit,A,
+digestives (pack),E,"[""Gluten""]"
+penguins (pack),F,"[""Gluten"",""Dairy""]"
+hobnob (pack),E,"[""Gluten"",""Dairy""]"
+rice (pack),C,
+potato,C,
+cod,B,
+prawns,B,"[""Shellfish""]"
+seabass,B,
+salmon,A,
+tuna,B,
+snickers,F,"[""Dairy""]"
+haddock,B,
